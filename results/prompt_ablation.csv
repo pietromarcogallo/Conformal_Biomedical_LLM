@@ -1,0 +1,11 @@
+config,style,ordering,accuracy,mean_conf,T,ECE_raw,ECE_scaled,coverage_LAC,size_LAC,size_mondrian,max_class_share
+numbers|fixed,numbers,fixed,0.648,0.978,6.12,0.331,0.065,0.888,3.29,2.49,0.264
+letters|fixed,letters,fixed,0.642,0.988,7.25,0.349,0.043,0.876,3.21,2.49,0.264
+letters|random,letters,random,0.638,0.987,7.41,0.353,0.052,0.894,3.24,2.48,0.268
+letters_role|fixed,letters_role,fixed,0.638,0.983,7.46,0.347,0.042,0.894,3.27,2.37,0.27
+letters|reversed,letters,reversed,0.636,0.991,7.16,0.355,0.081,0.872,3.3,2.29,0.274
+letters_role|reversed,letters_role,reversed,0.634,0.99,7.32,0.359,0.099,0.872,3.3,2.2,0.274
+letters_role|random,letters_role,random,0.634,0.986,7.58,0.356,0.044,0.9,3.22,2.48,0.268
+numbers|random,numbers,random,0.63,0.971,6.53,0.343,0.069,0.902,3.53,2.74,0.278
+numbers|reversed,numbers,reversed,0.57,0.925,6.37,0.361,0.048,0.88,3.23,2.96,0.274
+letters|random|cats_first,letters,random,0.458,0.854,5.95,0.401,0.069,0.872,3.56,3.44,0.25
